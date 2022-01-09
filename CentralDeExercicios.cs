@@ -26,7 +26,7 @@ namespace CursoCSharp {
 
             string nomeDoExercicio = Exercicios.ElementAt(num).Key;
 
-            Console.Write("\nExecutando exercício ");
+            Console.Write("\nExecutando o exercício: \n");
             Console.BackgroundColor = ConsoleColor.Yellow;
             Console.ForegroundColor = ConsoleColor.Black;
             Console.WriteLine(nomeDoExercicio);
