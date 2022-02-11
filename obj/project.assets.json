@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Henrik\\Documents\\PROGRAMADOR\\CSharp\\CursoCSharp\\CursoCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Henrik\\Documents\\00_HENRIK\\CSharp\\CursoCSharp\\CursoCSharp.csproj",
       "projectName": "CursoCSharp",
-      "projectPath": "C:\\Users\\Henrik\\Documents\\PROGRAMADOR\\CSharp\\CursoCSharp\\CursoCSharp.csproj",
+      "projectPath": "C:\\Users\\Henrik\\Documents\\00_HENRIK\\CSharp\\CursoCSharp\\CursoCSharp.csproj",
       "packagesPath": "C:\\Users\\Henrik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Henrik\\Documents\\PROGRAMADOR\\CSharp\\CursoCSharp\\obj\\",
+      "outputPath": "C:\\Users\\Henrik\\Documents\\00_HENRIK\\CSharp\\CursoCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Henrik\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
